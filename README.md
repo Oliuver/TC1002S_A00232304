@@ -13,6 +13,7 @@ A00232304
 ### Actividad - Obtención de estadísticas descriptivas https://github.com/Oliuver/TC1002S_A00232304/blob/master/A00232304_EstadisticasDescriptivas.ipynb
 ### Actividad - Mapas de calor y boxplots https://github.com/Oliuver/TC1002S_A00232304/blob/master/A00232304_MapasDeCalor-Boxplots.ipynb
 ### Actividad - K-Means https://github.com/Oliuver/TC1002S_A00232304/blob/master/K_Means.ipynb
+### Evidencia final - https://github.com/Oliuver/TC1002S_A00232304/tree/master/Evidencia%20Final
 
 ## EQUIPO
 Silvana Dorita Ruiz Olivarría - A01252346
