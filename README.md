@@ -10,9 +10,9 @@ A00232304
 
 ## LISTADO DE EJERCICIOS
 * Lista de los ejercicios contenidos en el repositorio
-### Actividad - Obtención de estadísticas descriptivas
-### Actividad - Mapas de calor y boxplots
-### Actividad - K-Means
+### Actividad - Obtención de estadísticas descriptivas https://github.com/Oliuver/TC1002S_A00232304/blob/master/A00232304_EstadisticasDescriptivas.ipynb
+### Actividad - Mapas de calor y boxplots https://github.com/Oliuver/TC1002S_A00232304/blob/master/A00232304_MapasDeCalor-Boxplots.ipynb
+### Actividad - K-Means https://github.com/Oliuver/TC1002S_A00232304/blob/master/K_Means.ipynb
 
 ## EQUIPO
 Silvana Dorita Ruiz Olivarría - A01252346
