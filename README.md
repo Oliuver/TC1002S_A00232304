@@ -16,5 +16,17 @@ A00232304
 
 ## EQUIPO
 Silvana Dorita Ruiz Olivarría - A01252346
+
 Luis Rodolfo Bojorquez Pineda - A01250513
+
 Sebastián Gálvez Trujillo - A01251884
+
+
+
+## Manual de uso
+
+1. Descargamos la el código de github y descomprimimos la carpeta .zip
+2. Ingresar los archivos a nuestra carpeta de nuestra preferencia.
+3. Abrimos la terminal e ingresamos el comando ‘jupyter notebook’ para utilizar nuestros archivos en jupyter.
+4. Dentro de jupyter entramos a la carpeta K-Means y abrimos el archivo K_Means.ipynb, aquí ya podemos correr nuestro código de pyhton3.
+5. Seleccionamos la primera celda y damos CTRL+ENTER para correrla.
