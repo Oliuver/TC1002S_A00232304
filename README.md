@@ -12,6 +12,7 @@ A00232304
 * Lista de los ejercicios contenidos en el repositorio
 Actividad - Obtención de estadísticas descriptivas
 Actividad - Mapas de calor y boxplots
+Actividad - K-Means
 
 ## EQUIPO
 Silvana Dorita Ruiz Olivarría - A01252346
